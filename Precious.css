@@ -1,0 +1,49 @@
+#img{
+    position: relative;
+    height: 626px;
+    width: 500px;
+}
+
+.gandalf{
+    opacity: 0.25;
+}
+
+.gandalf:hover{
+    opacity: 1;
+}
+
+.txt{
+    position: relative;
+    z-index: 50;
+    bottom: 300px;
+    left: 7%;
+    color: darkred;
+    font-size: 50px;
+}
+
+p{
+    color: darkgoldenrod;
+}
+
+.reward {
+    position: relative;
+    z-index: 100;
+    font-size: 200%;
+    background-color: whitesmoke;
+    bottom: 700px;
+    left: 35%;
+    width: 30%;
+    text-align: center;
+    opacity: 0.90;
+}   
+
+#img:hover h1{
+    margin-top: 200px;
+    font-size: 30px;
+    left: 25%;
+}
+
+#img:hover h2{
+    opacity:0;
+}
+
