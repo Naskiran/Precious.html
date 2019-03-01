@@ -1,0 +1,37 @@
+.gandalf{
+    padding-left: 30%;
+    opacity: 0.25;
+
+}
+
+.gandalf:hover{
+    opacity: 1;
+}
+
+
+.txt{
+    position: relative;
+    z-index: 50;
+    bottom: 300px;
+    left: 45%;
+    color: darkred;
+}
+
+.reward {
+    position: relative;
+    z-index: 100;
+    background-color: antiquewhite;
+    bottom: 600px;
+    left: 400px;
+    width: 30%;
+
+}   
+
+#img:hover h1{
+    margin-top: 200px;
+}
+
+#img:hover h2{
+    opacity:0;
+}
+
